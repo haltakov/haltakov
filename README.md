@@ -10,9 +10,9 @@ Throughout all these years, I’ve worked on countless side projects — and now
 
 Check out my latest projects
 
-* [UnsubPost](https://unsubpost.dev/) - a one-time payment TypeScript library to post on all social media platforms.
+* [SimplePost](https://simplepost.dev/) - a one-time payment TypeScript library to post on all social media platforms.
 * [Leoline](https://leoline.fun) - AI audio stories kids love, with parents in control
-* [Simple Photo Gallery](https://haltakov.net/simple-photo-gallery/) - Beautiful and simple photo galleries that help you tell your story
+* [Simple Photo Gallery](https://simple.photo) - Beautiful photo galleries in 30 seconds
 * [haltakov.net](https://haltakov.net) - my personal website as a VS Code simulation
 * and all my other [public GitHub repos](https://github.com/haltakov?tab=repositories)
 
