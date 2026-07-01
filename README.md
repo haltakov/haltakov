@@ -6,7 +6,7 @@ I studied Computer Science at Sofia University, then moved to Munich in 2009 for
 
 I spent about 12 years at BMW, working on camera-based driver assistance systems, parking-space detection, traffic light and traffic sign perception, autonomous driving, and high-precision localization. Some of that work has been in production BMW cars since 2016, and almost all new BMW models since 2018 contain work I contributed to.
 
-After BMW, I joined Fr0ntierX as VP of Engineering, working across blockchain, enterprise AI, cybersecurity, confidential computing, and encrypted AI/RAG products. Eventually, I decided to focus fully on my own ventures and turn the side-project energy I've always had into my full-time work.
+After BMW, I joined a startup as VP of Engineering, working across blockchain, enterprise AI, cybersecurity, confidential computing, and encrypted AI/RAG products. Eventually, I decided to focus fully on my own ventures and turn the side-project energy I've always had into my full-time work.
 
 ### My current projects
 
