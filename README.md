@@ -1,19 +1,22 @@
-I'm Vladimir and I've been building software products for over 20 years. I'm currently working as a solo founder, and AI is an indispensable part of my journey — integrated into the products I build, supporting me in areas where I lack expertise, and helping me brainstorm new ideas.
+I'm Vladimir Haltakov, originally from Sofia, Bulgaria, and based in Munich, Germany. I've been programming and building software products for 20+ years, mostly at the intersection of AI, computer vision, product engineering, and developer tools.
 
-I studied Computer Science in Sofia, Bulgaria, then moved to Munich, Germany, for a Master’s program in Robotics. That’s where I got deeply interested in Computer Vision and Machine Learning, which led me to pursue a PhD at the Technical University of Munich as part of the BMW PhD program.
+I'm currently building Creafex Lab as a solo founder. AI is deeply integrated into how I work — in the products I build, the way I code, how I think through strategy and marketing, and in the internal assistants I use to move faster.
 
-For a large part of my career, I worked at BMW, developing camera-based driver assistance systems and programming features for their autonomous driving initiative. Eventually, I grew tired of the big company environment and joined a startup in the crypto and cybersecurity space in 2022.
+I studied Computer Science at Sofia University, then moved to Munich in 2009 for the Robotics, Cognition, Intelligence master's program at the Technical University of Munich. That led me deeper into Computer Vision and Machine Learning, and later to a PhD at TUM through the BMW PhD program, focused on semantic segmentation and context-aware machine learning.
 
-Throughout all these years, I’ve worked on countless side projects — and now I’ve decided to turn them into my full-time work and be my own boss.
+I spent about 12 years at BMW, working on camera-based driver assistance systems, parking-space detection, traffic light and traffic sign perception, autonomous driving, and high-precision localization. Some of that work has been in production BMW cars since 2016, and almost all new BMW models since 2018 contain work I contributed to.
+
+After BMW, I joined Fr0ntierX as VP of Engineering, working across blockchain, enterprise AI, cybersecurity, confidential computing, and encrypted AI/RAG products. Eventually, I decided to focus fully on my own ventures and turn the side-project energy I've always had into my full-time work.
 
 ### My current projects
 
-Check out my latest projects
+Check out my latest projects:
 
-* [SimplePost](https://simplepost.dev/) - a one-time payment TypeScript library to post on all social media platforms.
-* [Leoline](https://leoline.fun) - AI audio stories kids love, with parents in control
-* [Simple Photo Gallery](https://simple.photo) - Beautiful photo galleries in 30 seconds
-* [haltakov.net](https://haltakov.net) - my personal website as a VS Code simulation
+* [SimplePost](https://simplepost.social/) - an AI-native social media scheduler that connects your AI assistant to your social accounts and publishes to 10 platforms.
+* [Simple Photo Gallery](https://simple.photo) - beautiful, story-driven photo galleries in minutes.
+* [Leoline](https://leoline.fun) - an AI voice storyteller for kids, with safe stories and persistent parental controls.
+* [chatbot-page](https://github.com/haltakov/chatbot-page) - a free, open-source React package for building chatbot-style personal or company websites.
+* [haltakov.com](https://haltakov.com) - my chatbot-style personal website, built with `chatbot-page`.
 * and all my other [public GitHub repos](https://github.com/haltakov?tab=repositories)
 
 ### Connect with me
@@ -21,5 +24,6 @@ Check out my latest projects
 You can connect with me on one of these platforms:
 
 * [X](https://x.com/haltakov)
-* [Bluesky](https://bsky.app/profile/haltakov.net)
+* [Bluesky](https://bsky.app/profile/haltakov.bsky.social)
 * [LinkedIn](https://www.linkedin.com/in/haltakov/)
+* [GitHub](https://github.com/haltakov)
